@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "huajin yu, Horrible Cop, Launches Site"
+title: "huajin yu, Launches Site"
 date: 2014-04-30
 ---
 
