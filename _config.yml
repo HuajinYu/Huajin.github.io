@@ -1,2 +1,3 @@
 name: Huajin Yu
 markdown: kramdown
+permalink: /blog/:year/:month/:day/:title
